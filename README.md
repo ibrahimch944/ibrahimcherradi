@@ -13,7 +13,7 @@
 <img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
 
-- 🔭 I’m currently working on [Implementation of a SOC and System Security Reinforcement](https://pdf.ac/1MaJ20)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Network security/Bug Bounty/penetration Testing**
 
