@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim CHERRADI</h1>
-<h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | CTF Player | Passionate about the ever-evolving world of cybersecurity 🛡️,Real-Time Log Analysis, penetration testing 🔒📊, dedicated to safeguarding digital landscapes 🔒</h3>
+<h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | Web Application Security | Passionate about securing digital landscapes 🛡️📊🔒 </h3>
 
 
 
